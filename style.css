@@ -1,0 +1,77 @@
+body{
+	margin: 0;
+	background: #797979;
+	font-family: 'Myriad Pro' !important;
+}
+.title{
+	font: bold 21px 'Myriad Pro';
+}
+.main_bg{
+	background-image: url(images/bg.jpg);
+	padding: 10px;
+	margin: 0 auto;
+	max-width: 1000px;
+}
+#top .logo{
+	background-image: url(images/logo.png);
+	padding: 0;
+	margin: 10px;
+	height: 35px;
+	width: 143px;
+	float: left;
+}
+#top .stamp{
+	background-image: url(images/stamp.png);
+	width: 252px;
+	height: 106px;
+	margin: 10px;
+}
+#delo{
+	background-image: url(images/delo.png);
+	height: 110px;
+	width: 213px;
+	margin: 0 auto;
+}
+#data .text{
+	font-family: 'Courier New';
+}
+#checkboxes{
+	padding: 10px 120px;
+}
+#checkboxes .checkbox{
+	background-image: url(images/checkbox_free.png);
+	width: 18px;
+	height: 18px;
+}
+#data{
+	padding: 0 120px;
+}
+#data .title{
+	margin-right: 15px; 
+	font: bold 21px 'Myriad Pro';
+	color: #2f1b15;
+}
+#data .border{
+	width: 74%;
+}
+.line{
+	background-image: url(images/line.png);
+	height: 3px;
+}
+#data .name .border{
+	width: 81%;
+}
+#data .year .border{
+	width: 80%;
+}
+#data .skype .border{
+	width: 90%;
+}
+#data .mail .border{
+	width: 90%;
+}
+#data .circle{
+	 background-image: url(images/o.png);
+	 height: 28px;
+	 width: 28px;
+}
